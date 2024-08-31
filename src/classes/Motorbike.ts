@@ -31,7 +31,7 @@ class Motorbike extends Vehicle {
     wheels: Wheel[]
   ) {
     super();
-
+    
     this.vin = vin;
     this.color = color;
     this.make = make;
