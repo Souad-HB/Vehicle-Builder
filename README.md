@@ -41,7 +41,7 @@ This command line application builds and uses cars to have additional options fo
 
 ## License
 
-This project is licensed under the MIT License. To learn more about this means, click the license button at the top.  
+This project is licensed under the MIT License. To learn more about what this means, click the license button at the top.  
 
 ## Demonstration
 

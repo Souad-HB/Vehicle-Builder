@@ -71,11 +71,11 @@ class Cli {
         }
         // TODO: add statements to create a truck or motorbike if the user selects the respective vehicle type
         else if (answers.vehicleType === 'Motorbike') {
-          // create a car
+          // create a motorbike
           this.createMotorbike();
         }
         if (answers.vehicleType === 'Truck') {
-          // create a car
+          // create a truck
           this.createTruck();
         }
       });
@@ -264,7 +264,7 @@ class Cli {
           parseInt(answers.year),
           parseInt(answers.weight),
           parseInt(answers.topSpeed),
-          []
+          [new Wheel(answers.frontWheelDiameter, answers.frontWheelBrand), new Wheel(answers.rearWheelDiameter, answers.rearWheelBrand)]
         )
         // TODO: push the motorbike to the vehicles array
         this.vehicles.push(motorbike);
