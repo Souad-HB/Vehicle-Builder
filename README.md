@@ -10,7 +10,7 @@ This command line application builds and uses cars to have additional options fo
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Demonstartion](#Demonstration)
+  - [Demonstration](#demonstration)
   - [Questions](#questions)
 
 ## Installation
@@ -45,7 +45,7 @@ This project is licensed under the MIT License. To learn more about what this me
 
 ## Demonstration
 
-You can view this command line application on a demo video under this Link.
+You can view this command line application on a demo video under this [Link](https://app.screencastify.com/v2/manage/videos/NmGTzd4EvEerpyKQwOgL).
 
 ## Questions
 
