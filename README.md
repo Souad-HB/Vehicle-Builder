@@ -29,12 +29,16 @@ This command line application builds and uses cars to have additional options fo
     - The user can then use the created vehicle to perform a list of actions that can consist of: 
       - Print Details, Start Vehicle, Accelerate 5 MPH, Decelerate 5 MPH, Stop vehicle, Turn right, Turn left, Reverse, Tow vehicle, Do a wheelie, Select or create another vehicle, or Exit.
 
+  The below screenshot illustrates creating a new vehicle.
+
   ![alt text](assets/images/create.png)
 
   - **Select an existing vehicle**:
     - This choice will display all available vehicles, and the user needs to choose one. 
     - The user can then use the chosen existing vehicle to perform a list of actions that can consist of: 
       - Print Details, Start Vehicle, Accelerate 5 MPH, Decelerate 5 MPH, Stop vehicle, Turn right, Turn left, Reverse, Tow vehicle, Do a wheelie, Select or create another vehicle, or Exit.
+      
+  The below screenshot illustrates both selecting a new vehicle and creating a new one. 
 
   ![alt text](assets/images/existing.png)
 
