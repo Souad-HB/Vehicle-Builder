@@ -49,7 +49,7 @@ This project is licensed under the MIT License. To learn more about what this me
 
 ## Demonstration
 
-You can view this command line application on a demo video under this [Link]([https://app.screencastify.com/v2/manage/videos/AG4eI2uKXu6IvxkmkerJ](https://www.loom.com/share/118d7a5d8d72481a9c7aa146e844cb84?sid=9421f3d9-a3e0-4630-bfaa-f4d3abc0cd60).
+You can view this command line application on a demo video under this [Link](https://www.loom.com/share/118d7a5d8d72481a9c7aa146e844cb84?sid=9421f3d9-a3e0-4630-bfaa-f4d3abc0cd60).
 
 ## Questions
 
